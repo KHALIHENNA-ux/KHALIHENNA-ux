@@ -1,4 +1,4 @@
-## Hi, I'm Ameur 👋
+## Hi, I'm Ameur hadad 👋
 
 I build Python automation tools, AI-powered chatbots, and data dashboards that help businesses work smarter.
 
