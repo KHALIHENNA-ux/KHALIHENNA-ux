@@ -1,15 +1,22 @@
-## Hi, I'm Ameur hadad 👋
+# Hi there, I'm Ameur Hadad! 👋
 
-I build Python automation tools, AI-powered chatbots, and data dashboards that help businesses work smarter.
+I am a dedicated **Python Developer** and **Automation Enthusiast** currently enrolled in a science-based educational track, focusing on advanced mathematics and technical problem-solving.
 
-**What I do:**
-- 🤖 AI Chatbots & Claude API integrations
-- 🐍 Python scripts for automation & data processing
-- 📊 Data analytics dashboards (Tableau, Power BI)
+## 🛠 What I'm doing right now
+- **Mastering Automation**: Completed 50% of the **Google IT Automation with Python Professional Certificate**.
+- **Current Focus**: Deep-diving into **Troubleshooting and Debugging** to write more resilient and error-proof scripts.
+- **Mathematics**: Leveraging my advanced math background to optimize algorithms and logic.
 
-**Tools & Tech:**
-Python · SQL · Git · Claude API · Tableau · Linux · Bash
+## 🚀 Technical Skills (Validated)
+- **Python Programming**: Expert in using Python for OS interactions, file management, and process automation.
+- **Version Control**: Proficient in **Git and GitHub** for managing code versions and collaborating on projects.
+- **System Interaction**: Skilled in using `os`, `shutil`, and `pathlib` to automate real-world tasks.
+- **Environment**: Comfortable working with **Linux/Bash** and managing local development environments.
 
-**Languages:** Arabic · French · English
+## 📈 Recent Projects
+- **[Smart-File-Organizer](https://github.com/KHALIHENNA-ux/Smart-File-Organizer)**: A Python tool that intelligently categorizes and moves files based on extension, featuring conflict handling and clean code structure.
+- **[Email-Automation-Script](https://github.com/KHALIHENNA-ux/email-automation-script)**: Automated personalized email campaigns using CSV data.
 
-📫 Open to freelance projects — let's build something useful.
+## 📫 How to reach me
+- Open to collaboration on **Automation** and **Scripting** projects.
+- Based in **Fes, Morocco**.
